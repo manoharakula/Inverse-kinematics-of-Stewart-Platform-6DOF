@@ -8,3 +8,5 @@ To summarize, the platform exists in many different forms and may always be empl
 
 The inverse kinematics of a Stewart Platform is the computation of the leg length given the platform's needed location. The forward kinematics are indistinguishable and can only be resolved with additional restrictions or sensor input.
 The Stewart Platform is made up of two frames, the base frame and the platform frame, which are linked together by six variable length legs. The platform may be moved in three translational dimensions and three rotational dimensions with this configuration.
+
+### Note: The code was not written from scratch; instead, it drew on a variety of internet resources and github repositories to tackle the problem.
